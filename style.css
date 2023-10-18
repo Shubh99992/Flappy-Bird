@@ -1,0 +1,66 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	height: 100vh;
+	width: 100vw;
+}
+
+.background {
+	height: 100vh;
+    width: 100vw;
+    /* background-color: skyblue; */
+    background-image: url(https://media3.giphy.com/media/gWb7yHglwMZKovBllB/giphy.gif?cid=ecf05e47s75xwucr4qzndsznt2brdgig5knuq4iy47sqbvaf&ep=v1_gifs_search&rid=giphy.gif&ct=g);
+    background-repeat: no-repeat;
+    background-position-x: 0%;
+    background-position-y: 70%;
+    background-size: 1500px;
+}
+
+.bird {
+	height: 100px;
+	width: 160px;
+	position: fixed;
+	top: 40vh;
+	left: 30vw;
+	z-index: 100;
+}
+
+.pipe_sprite {
+	position: fixed;
+	top: 40vh;
+	left: 100vw;
+	height: 62vh;
+	width: 11vw;
+background-image: url("OIP-removebg-preview.png");
+}
+
+.message {
+	position: fixed;
+	z-index: 10;
+	height: 10vh;
+	font-size: 10vh;
+	font-weight: 100;
+	color: black;
+	top: 12vh;
+	left: 20vw;
+	text-align: center;
+}
+
+.score {
+	position: fixed;
+	z-index: 10;
+	height: 10vh;
+	font-size: 10vh;
+	font-weight: 100;
+	color: goldenrod;
+	top: 0;
+	left: 0;
+}
+
+.score_val {
+	color: gold;
+}
