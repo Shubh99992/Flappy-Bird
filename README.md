@@ -1,7 +1,10 @@
-![my badge](https://img.shields.io/badge/Made%20with-Html,css%20and%20Js-blue?style=for-the-badge&logo=)  &nbsp;  &nbsp; ![my badge](https://img.shields.io/github/last-commit/Shubh99992/Flappy-Bird?style=for-the-badge)
-
-
+![my badge](https://img.shields.io/badge/Made%20with-Html,css%20and%20Js-blue?style=for-the-badge&logo=javascript)  &nbsp;  &nbsp; ![my badge](https://img.shields.io/github/last-commit/Shubh99992/Flappy-Bird?style=for-the-badge)
 # Hi Everyone
+
+## Title: Flappy-Bird
+You can access demo preview 👉
+http://shubh99992.pythonanywhere.com
+
 - Flappy-Bird
 Flappy Bird is an endless game where the player controls a bird using the spacebar. The objective of the game is to prevent the bird from hitting obstacles like pipes. Every time the bird moves through the pipes, the score goes up by one. When the bird hits the pipes or plummets to the ground due to gravity, the game is over.
 
